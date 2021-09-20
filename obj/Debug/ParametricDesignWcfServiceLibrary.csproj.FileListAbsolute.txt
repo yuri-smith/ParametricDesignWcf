@@ -1,0 +1,13 @@
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\ParametricDesignWcfServiceLibrary.dll.config
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\ParametricDesignWcfServiceLibrary.dll
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\ParametricDesignWcfServiceLibrary.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\obj\Debug\ParametricDesignWcfServiceLibrary.dll
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\obj\Debug\ParametricDesignWcfServiceLibrary.pdb
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\CodeFirstStoreFunctions.dll
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\obj\Debug\ParametricDesignWcfServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\obj\Debug\ParametricDesignWcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Documents\Visual Studio 2012\Projects\ParametricDesignWcfServiceLibrary\ParametricDesignWcfServiceLibrary\obj\Debug\ParametricDesignWcfServiceLibrary.csproj.CopyComplete
